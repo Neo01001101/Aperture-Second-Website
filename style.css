@@ -935,7 +935,9 @@ li {
     justify-content: center;
   }
 
-  
+  .clients__subtitle {
+    text-align: center;
+  }
 
 }
 
@@ -951,4 +953,5 @@ li {
 
 @media (min-width: 1200px) {
    
+
 }
